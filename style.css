@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100;0,300;0,400;1,100;1,300;1,400&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+*{ margin: 0; padding: 0;}
+
+body{
+
+
+}
+nav{
+    background-color: rgb(107, 107, 107);
+    display: flex;
+}
+div{
+    background-color: rgb(107, 107, 107)
+    
+}
+
+.logo{
+    width: 50px;
+    border-radius: 100%;
+    display: flex;
+    margin-left: 20px;
+
+}
+.NLogo{
+    margin: 15px;
+    margin-left: 50px;
+    color: rgb(255, 255, 255);
+    font-family: "Roboto Mono", monospace
+}
+.menu{    
+    margin: 16px;    
+    margin-left: 40%;
+    text-align: center;
+    
+    
+}
+.menu1{
+    margin-left: 50px;
+    text-decoration: none;
+    font-family: "Roboto Mono", monospace
+    
+}
+.menu1:link, .menu1:visited{
+    color:#FFF;
+}
+.menu1:hover, .menu1:active{
+    color: #FFF;
+}
+.agend{
+    display: flex;
+    justify-content: center;
+    padding: 100px
+}
+.prof{
+    margin: 50px;
+    border-radius: 100%;
+}
+h2{
+    margin-top: 70px;
+    text-align: center;
+    font-family: "Roboto Mono", monospace
+}
